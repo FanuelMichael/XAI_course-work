@@ -1,4 +1,4 @@
-# Interpretable Artificial Intelligence for Applications (XAI): Course-work
+# Local SHAP and LIME Explanations for a Hybrid 1DCNN–BiLSTM–HybridAttention Model in Telecom Customer Churn Prediction.
 
 ## 🛠️ Getting Started
 
