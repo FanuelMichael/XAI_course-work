@@ -1,5 +1,17 @@
 # Local SHAP and LIME Explanations for a Hybrid 1DCNN–BiLSTM–HybridAttention Model in Telecom Customer Churn Prediction.
 
+Fanuel Michael
+
+APPLIED MATHEMATICS AND INFORMATICS
+
+Artificial Intelligence and Big Data Analysis.
+
+## Repository Overview
+
+This repository contains the necessary documents for course-work project `Local SHAP and LIME Explanations for a Hybrid 1DCNN–BiLSTM–HybridAttention Model in Telecom Customer Churn Prediction`
+of the **Interpretable Artificial Intelligence for Applications (XAI)** course.
+
+
 ## 🛠️ Getting Started
 
 To run the code for this project, please follow the instructions below. 
