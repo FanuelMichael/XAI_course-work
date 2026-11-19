@@ -35,7 +35,9 @@ Ensure you download this dataset and place it in the same folder as the Python c
 ### 4. Execution & GUI Interaction
 * After opening the `Source-code and dataset` folder inside your PyCharm IDE, you just need to run the `main.py` module.
 > **⚠️ Attention:** During the pipeline execution, a popup **GUI form** will display to allow you to select a churned customer's original data. 
-> *   You must enter a customer index ranging from **0–1408** (from the test dataset) for local explanation, then click **OK**.
+> *   You can enter a customer index ranging from **0–1408** (from the test dataset) for local explanation, then click **OK**.
+
+      NB: The selected customer should have a churn profile Yes (Churn = Yes), Example in my research i selected customer index "34".
 > *   *(Alternatively, you can use the pre-selected customer index **"34"** which represents a churned customer profile. Simply click **OK** directly).*
 > *   Finally, click the **"Predict this customer"** button at the bottom-right section of this form to continue the prediction and explanation process.
 
