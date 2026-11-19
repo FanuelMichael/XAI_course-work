@@ -16,7 +16,8 @@ pip install -r requirements.txt
 ```
 
 ### 3. Dataset Requirement
-Inside the `Source-code and dataset folder`, there is a Kaggle telecom churn dataset named WA_Fn-UseC_-Telco-Customer-Churn.csv used for this research.
+Inside the `Source-code and dataset folder`, there is a Kaggle telecom churn dataset https://www.kaggle.com/datasets/yeanzc/telco-customer-churn-ibm-dataset?resource=download
+named WA_Fn-UseC_-Telco-Customer-Churn.csv used for this research.
 Ensure you download this dataset and place it in the same folder as the Python code files before running the pipeline.
 
 ### 4. Execution & GUI Interaction
